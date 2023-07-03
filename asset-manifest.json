@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elib.github.io/static/css/main.7de838ef.css",
+    "main.js": "/elib.github.io/static/js/main.b058b7a5.js",
+    "static/js/787.08ff9160.chunk.js": "/elib.github.io/static/js/787.08ff9160.chunk.js",
+    "index.html": "/elib.github.io/index.html",
+    "main.7de838ef.css.map": "/elib.github.io/static/css/main.7de838ef.css.map",
+    "main.b058b7a5.js.map": "/elib.github.io/static/js/main.b058b7a5.js.map",
+    "787.08ff9160.chunk.js.map": "/elib.github.io/static/js/787.08ff9160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7de838ef.css",
+    "static/js/main.b058b7a5.js"
+  ]
+}
