@@ -1,0 +1,22 @@
+.Bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0% 10px;
+    background-color: #20543c;
+    height: 100px;
+    color: white;
+}
+
+.Bar #logOut{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 400px;
+}
+
+.Bar img{
+    height: 80px;
+    width: 80px;
+    border-radius: 20px;
+}

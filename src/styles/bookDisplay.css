@@ -1,0 +1,66 @@
+.books{
+    background-color: #e8dcc4;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 2% 
+}
+
+.search input{
+    width: 500px;
+    height: 30px;
+    padding-left: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.search select{
+    background-color: white;
+    border-radius: 5px;
+}
+
+.addBook{
+    padding: 3px 4px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.cards{
+    margin: 0% 13%;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 1px;
+    background-color: white;
+}
+
+.cards button{
+    margin-top: 2px;
+    padding: 3px 4px;
+    border-radius: 5px;
+    background-color: white;
+    border-width: 1px;
+}
+
+.bookCard{
+    height: 300px;
+    width: 150px;
+    font-size: 10px;
+    margin: 0px 5px; 
+}
+
+.bookLink{
+    text-decoration: none;
+    color: black;
+}
+
+.bookCard img{
+    height: 200px;
+    width: 150px;
+    border-radius: 3px;
+}
